@@ -1,1 +1,1 @@
-#Da un valore intero ricava il suo doppio
+#Da un valore intero ricava il suo triplo
